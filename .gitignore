@@ -1,0 +1,10 @@
+# Ignorar archivos temporales de sistema
+.DS_Store
+desktop.ini
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar otros archivos temporales
+*.tmp
