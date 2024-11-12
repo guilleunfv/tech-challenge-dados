@@ -1,9 +1,17 @@
-# tech-challenge-dados
-Este repositório contém o projeto Tech Challenge, uma atividade prática de Data Analytics que abrange os conhecimentos adquiridos em várias disciplinas. O projeto consiste em atuar como especialista em análise de dados para uma empresa brasileira que exporta vinhos, desenvolvendo relatórios e análises para investidores e acionistas.
+# Tech Challenge - Análise de Produção e Comércio de Vinhos
 
-Objetivo: Apresentar a quantidade de vinhos exportados nos últimos 15 anos, considerando dados climáticos, demográficos, econômicos e avaliações de vinhos. A análise inclui:
+## Estrutura do Projeto
 
-País de origem e destino
-Quantidade exportada em litros (1kg = 1L)
-Valor de exportação em dólares
-Os dados utilizados são fornecidos por uma vinícola parceira. O projeto visa gerar insights e gráficos para apoiar decisões estratégicas e identificar ações para melhorar as exportações no futuro.
+O projeto está organizado da seguinte forma:
+- **`app.py`**: Arquivo principal da aplicação em Streamlit.
+- **`requirements.txt`**: Lista de dependências necessárias para o projeto.
+- **`.gitignore`**: Arquivo para ignorar arquivos desnecessários no Git.
+- **`data/`**: Pasta para armazenar os dados brutos (`raw`) e os dados processados (`cleaned`).
+
+## Instalação de Dependências
+
+Cada membro do grupo deve ter o Python e o `pip` instalados para poder executar a aplicação. Para instalar as dependências, abra o terminal na pasta do projeto e execute:
+
+```bash
+pip install -r requirements.txt
+
