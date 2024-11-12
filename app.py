@@ -2,57 +2,76 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title('Tech Challenge - Análise de Produção e Comércio de Vinhos')
-st.write("Por favor, carregue os dois arquivos CSV para continuar.")
+# Título e Introdução
+st.title("Tech Challenge - Análise de Produção e Comércio de Vinhos")
+st.markdown("### Integrantes do Grupo")
+st.write("Rosicleia Cavalcante Mota")
+st.write("Nathalia Dias Araujo")
+st.write("Guillermo Jesus Camahuali Privat")
+st.write("Andressa Leonilia Da Silva Gomes")
+st.write("Kelly Priscilla Matos Campos")
 
-# Upload dos arquivos CSV
-uploaded_comercio = st.file_uploader("Escolha o arquivo de comércio", type=['csv'])
-uploaded_producao = st.file_uploader("Escolha o arquivo de produção", type=['csv'])
+st.markdown("## Introdução")
+st.write("Esta aplicação apresenta uma análise detalhada da produção e do comércio de vinhos nos últimos anos.")
 
-if uploaded_comercio is not None and uploaded_producao is not None:
-    # Carregar os arquivos em DataFrames
-    df_comercio = pd.read_csv(uploaded_comercio)
-    df_producao = pd.read_csv(uploaded_producao)
+# Carregar os Dados
+st.markdown("## Carregar Dados")
+comercio_file = st.file_uploader("Carregar arquivo de dados de Comércio (CSV)", type=["csv"])
+producao_file = st.file_uploader("Carregar arquivo de dados de Produção (CSV)", type=["csv"])
 
-    # Verificar colunas carregadas
-    st.write("Colunas carregadas do arquivo de comércio:")
-    st.write(df_comercio.columns)
-    st.write("Colunas carregadas do arquivo de produção:")
-    st.write(df_producao.columns)
+if comercio_file and producao_file:
+    comercio_df = pd.read_csv(comercio_file)
+    producao_df = pd.read_csv(producao_file)
 
-    # Definindo os anos corretamente com base nos nomes das colunas
-    anos = ['Quantidade_Litros_2009', 'Quantidade_Litros_2010', 'Quantidade_Litros_2011', 
-            'Quantidade_Litros_2012', 'Quantidade_Litros_2013', 'Quantidade_Litros_2014', 
-            'Quantidade_Litros_2015', 'Quantidade_Litros_2016', 'Quantidade_Litros_2017', 
-            'Quantidade_Litros_2018', 'Quantidade_Litros_2019', 'Quantidade_Litros_2020', 
-            'Quantidade_Litros_2021', 'Quantidade_Litros_2022', 'Quantidade_Litros_2023']
+    # Exibir dados
+    st.markdown("### Dados de Comércio")
+    st.write(comercio_df.head())
 
-    # Verificar se os anos estão presentes no DataFrame de comércio
-    if all(ano in df_comercio.columns for ano in anos):
-        # Gráfico de Comércio
-        st.header("Tendência de Comércio de Vinhos")
-        fig_comercio, ax_comercio = plt.subplots()
-        for produto in df_comercio['produto'].unique():
-            ax_comercio.plot(anos, df_comercio[df_comercio['produto'] == produto][anos].values.flatten(), label=produto)
-        ax_comercio.set_title("Tendência de Comércio de Vinhos ao Longo dos Anos")
-        ax_comercio.set_xlabel("Anos")
-        ax_comercio.set_ylabel("Quantidade em Litros")
-        ax_comercio.legend()
-        st.pyplot(fig_comercio)
-    else:
-        st.error("Os nomes das colunas de anos no arquivo de comércio não coincidem com o esperado.")
+    st.markdown("### Dados de Produção")
+    st.write(producao_df.head())
 
-    # Verificar se os anos estão presentes no DataFrame de produção
-    if all(ano in df_producao.columns for ano in anos):
-        # Gráfico de Produção
-        st.header("Tendência de Produção de Vinhos")
-        fig_producao, ax_producao = plt.subplots()
-        for produto in df_producao['produto'].unique():
-            ax_producao.plot(anos, df_producao[df_producao['produto'] == produto][anos].values.flatten(), label=produto)
-        ax_producao.set_title("Tendência de Produção de Vinhos ao Longo dos Anos")
-        ax_producao.set_xlabel("Anos")
-        ax_producao.set_ylabel("Quantidade em Litros")
-        ax_producao.legend()
-        st.pyplot(fig_producao)
-    else:
-        st.error("Os nomes das colunas de anos no arquivo de produção não coincidem com o esperado.")
+    # Análise Descritiva
+    st.markdown("## Análise Descritiva")
+    st.write("### Estatísticas de Comércio")
+    st.write(comercio_df.describe())
+    
+    st.write("### Estatísticas de Produção")
+    st.write(producao_df.describe())
+
+    # Gráfico de Linha para Tendências Anuais
+    st.markdown("## Gráfico de Linha - Tendência Anual")
+    anos = comercio_df.columns[1:]  # Supondo que a primeira coluna é uma categoria e o restante são anos
+    st.line_chart(comercio_df.set_index(comercio_df.columns[0])[anos])
+    st.line_chart(producao_df.set_index(producao_df.columns[0])[anos])
+
+    # Gráfico de Barras para Comparação Anual
+    st.markdown("## Gráfico de Barras - Comparação Anual")
+    ano_escolhido = st.selectbox("Selecione um ano para comparar", anos)
+    fig, ax = plt.subplots()
+    ax.bar(comercio_df[comercio_df.columns[0]], comercio_df[ano_escolhido])
+    ax.set_title(f"Comércio de Vinhos em {ano_escolhido}")
+    ax.set_ylabel("Quantidade (Litros)")
+    ax.set_xlabel("Categoria")
+    st.pyplot(fig)
+
+    fig, ax = plt.subplots()
+    ax.bar(producao_df[producao_df.columns[0]], producao_df[ano_escolhido], color='orange')
+    ax.set_title(f"Produção de Vinhos em {ano_escolhido}")
+    ax.set_ylabel("Quantidade (Litros)")
+    ax.set_xlabel("Categoria")
+    st.pyplot(fig)
+
+    # Gráfico de Pizza para Distribuição
+    st.markdown("## Gráfico de Pizza - Distribuição por Categoria")
+    fig, ax = plt.subplots()
+    ax.pie(comercio_df[ano_escolhido], labels=comercio_df[comercio_df.columns[0]], autopct='%1.1f%%')
+    ax.set_title(f"Distribuição do Comércio de Vinhos em {ano_escolhido}")
+    st.pyplot(fig)
+
+    fig, ax = plt.subplots()
+    ax.pie(producao_df[ano_escolhido], labels=producao_df[producao_df.columns[0]], autopct='%1.1f%%')
+    ax.set_title(f"Distribuição da Produção de Vinhos em {ano_escolhido}")
+    st.pyplot(fig)
+
+else:
+    st.warning("Por favor, carregue os arquivos de dados de comércio e produção para continuar.")
