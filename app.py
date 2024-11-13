@@ -8,7 +8,6 @@ st.markdown("### Integrantes do Grupo")
 st.write("Rosicleia Cavalcante Mota")
 st.write("Nathalia Dias Araujo")
 st.write("Guillermo Jesus Camahuali Privat")
-st.write("Andressa Leonilia Da Silva Gomes")
 st.write("Kelly Priscilla Matos Campos")
 
 st.markdown("## Introdução")
@@ -28,46 +27,43 @@ st.write(comercio_df.head())
 st.markdown("### Dados de Produção")
 st.write(producao_df.head())
 
-# Análise Descritiva
-st.markdown("## Análise Descritiva")
-st.write("### Estatísticas de Comércio")
-st.write(comercio_df.describe())
-    
-st.write("### Estatísticas de Produção")
-st.write(producao_df.describe())
+# Selección de años y productos
+anos_disponiveis = comercio_df.columns[1:]  # Supondo que a primeira coluna é categoria, os demais são anos
+produtos_disponiveis = comercio_df[comercio_df.columns[0]].unique()
 
-# Gráfico de Linha para Tendências Anuais
-st.markdown("## Gráfico de Linha - Tendência Anual")
-anos = comercio_df.columns[1:]  # Supondo que a primeira coluna é uma categoria e o restante são anos
-st.line_chart(comercio_df.set_index(comercio_df.columns[0])[anos])
-st.line_chart(producao_df.set_index(producao_df.columns[0])[anos])
+ano_escolhido = st.selectbox("Selecione um ano para visualizar", anos_disponiveis)
+produtos_escolhidos = st.multiselect("Selecione os produtos para comparação", produtos_disponiveis, default=produtos_disponiveis[:5])
 
-# Gráfico de Barras para Comparação Anual
-st.markdown("## Gráfico de Barras - Comparação Anual")
-ano_escolhido = st.selectbox("Selecione um ano para comparar", anos)
+# Filtragem de dados de comércio e produção
+comercio_selecionado = comercio_df[comercio_df[comercio_df.columns[0]].isin(produtos_escolhidos)]
+producao_selecionada = producao_df[producao_df[producao_df.columns[0]].isin(produtos_escolhidos)]
+
+# Exibir tabela dinâmica
+st.markdown("### Tabela de Comércio no Ano Selecionado")
+st.write(comercio_selecionado[[comercio_df.columns[0], ano_escolhido]])
+
+st.markdown("### Tabela de Produção no Ano Selecionado")
+st.write(producao_selecionada[[producao_df.columns[0], ano_escolhido]])
+
+# Gráfico de Barras para Comparação de Produtos no Ano Selecionado
 fig, ax = plt.subplots()
-ax.bar(comercio_df[comercio_df.columns[0]], comercio_df[ano_escolhido])
-ax.set_title(f"Comércio de Vinhos em {ano_escolhido}")
+ax.bar(comercio_selecionado[comercio_df.columns[0]], comercio_selecionado[ano_escolhido], label="Comércio", alpha=0.7)
+ax.bar(producao_selecionada[producao_df.columns[0]], producao_selecionada[ano_escolhido], label="Produção", alpha=0.7)
+ax.set_title(f"Comparação de Comércio e Produção de Vinhos em {ano_escolhido}")
 ax.set_ylabel("Quantidade (Litros)")
-ax.set_xlabel("Categoria")
+ax.set_xlabel("Produto")
+ax.legend()
 st.pyplot(fig)
 
-fig, ax = plt.subplots()
-ax.bar(producao_df[producao_df.columns[0]], producao_df[ano_escolhido], color='orange')
-ax.set_title(f"Produção de Vinhos em {ano_escolhido}")
-ax.set_ylabel("Quantidade (Litros)")
-ax.set_xlabel("Categoria")
-st.pyplot(fig)
+# Gráfico de Linha para Tendências ao Longo dos Anos
+st.markdown("## Tendências ao Longo dos Anos")
+anos_selecionados = st.multiselect("Selecione os anos para visualização da tendência", anos_disponiveis, default=anos_disponiveis[:5])
 
-# Gráfico de Pizza para Distribuição
-st.markdown("## Gráfico de Pizza - Distribuição por Categoria")
-fig, ax = plt.subplots()
-ax.pie(comercio_df[ano_escolhido], labels=comercio_df[comercio_df.columns[0]], autopct='%1.1f%%')
-ax.set_title(f"Distribuição do Comércio de Vinhos em {ano_escolhido}")
-st.pyplot(fig)
+# Filtrar dados para os anos selecionados
+comercio_tendencia = comercio_selecionado.set_index(comercio_df.columns[0])[anos_selecionados]
+producao_tendencia = producao_selecionada.set_index(producao_df.columns[0])[anos_selecionados]
 
-fig, ax = plt.subplots()
-ax.pie(producao_df[ano_escolhido], labels=producao_df[producao_df.columns[0]], autopct='%1.1f%%')
-ax.set_title(f"Distribuição da Produção de Vinhos em {ano_escolhido}")
-st.pyplot(fig)
+st.line_chart(comercio_tendencia)
+st.line_chart(producao_tendencia)
+
 
