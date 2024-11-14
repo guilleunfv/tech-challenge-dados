@@ -1,0 +1,2 @@
+
+Este arquivo contém um listado completo dos registros únicos de IDs de comércio e produção, incluindo colunas de controle de comércio e produção, nome do produto, categoria, e subcategoria. Os registros únicos permitem a identificação clara e não duplicada dos diferentes produtos e suas respectivas classificações.

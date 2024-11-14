@@ -1,0 +1,2 @@
+
+Este arquivo contém um listado completo de IDs ordenados de forma ascendente, incluindo IDs de comércio e produção, juntamente com as colunas de controle, nome do produto, categoria, e subcategoria. Esta organização facilita a visualização dos dados em uma ordem lógica para análise sequencial.
