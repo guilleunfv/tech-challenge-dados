@@ -1,0 +1,1456 @@
+id_Comercio,control_Comercio,Produto,Ano,Quantidade_Comercio,Categoria,Subcategoria,id_Producao,control_Producao,produto,Quantidade_Producao
+,,,2009,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,6500
+,,,2009,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,0
+,,,2009,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,0
+,,,2009,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,335850
+,,,2009,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,442150
+,,,2009,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,420
+,,,2009,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,0
+,,,2009,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,0
+,,,2009,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2009,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2009,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2009,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2009,0,Derivados,Espumante,16.0,de_Espumante,Espumante,0
+,,,2009,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,1190500
+,,,2009,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2009,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2009,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2009,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2009,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2009,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,38000
+,,,2009,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,3500
+,,,2009,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2009,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2009,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2009,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2009,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,53418555
+,,,2009,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2009,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2009,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2009,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1352417
+,,,2009,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,0
+,,,2009,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2009,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2009,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2009,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,0
+,,,2009,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2009,8742660,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2009,2500230,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2009,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2009,6745427,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2009,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2009,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2009,21133,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2009,0,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2009,0,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2009,0,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2009,1279586,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2009,12000,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2009,0,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2009,7151,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2009,4561959,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2009,1354734,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2009,100,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2009,6533888,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2009,14443,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2009,7034,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2009,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2009,0,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2009,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2009,4933019,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2009,418132,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2009,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2009,1339958,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2009,467005,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2009,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2009,192082,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2009,36937,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2009,426804,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2009,2996318,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2009,808389,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2009,10649,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2009,542123,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2009,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2009,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2009,591313,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2009,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,674638
+,,,2009,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,23006457
+,,,2009,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,16034003
+,,,2009,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2009,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2009,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2009,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2009,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2009,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2009,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2009,13290140,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2009,213835,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2009,19576295,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2009,39214217,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,39211278
+3.0,vm_Rosado,  Rosado,2009,2307580,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,2063474
+2.0,vm_Tinto,  Tinto,2009,193004182,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,164143454
+14.0,ve_Branco,  Branco,2009,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2009,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2009,113,Vinho Especial,Tinto,,,,0
+,,,2009,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,21366975
+,,,2009,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,324550
+,,,2009,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,18209043
+,,,2010,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2010,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,92082
+,,,2010,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,254000
+,,,2010,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2010,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1144508
+,,,2010,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,7900
+,,,2010,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,64304
+,,,2010,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,149981
+,,,2010,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2010,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2010,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2010,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2010,0,Derivados,Espumante,16.0,de_Espumante,Espumante,10125
+,,,2010,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,703393
+,,,2010,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2010,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2010,0,Derivados,Frisante,34.0,de_Frisante,Frisante,831000
+,,,2010,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,69000
+,,,2010,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2010,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2010,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,0
+,,,2010,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2010,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2010,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2010,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2010,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,45912040
+,,,2010,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2010,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2010,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2010,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1951606
+,,,2010,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,5817
+,,,2010,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2010,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2010,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2010,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,15000
+,,,2010,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2010,9701727,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2010,2946179,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2010,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2010,6852708,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2010,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2010,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2010,16413,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2010,11,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2010,42847,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2010,18418,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2010,763368,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2010,13000,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2010,46000,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2010,6448,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2010,4674272,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2010,977962,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2010,31814,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2010,6611313,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2010,37310,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2010,26577,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2010,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2010,12438,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2010,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2010,5397459,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2010,284824,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2010,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2010,2774322,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2010,377010,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2010,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2010,172214,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2010,67502,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2010,912242,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2010,3336175,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2010,1123858,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2010,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2010,661586,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2010,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2010,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2010,638487,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2010,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,0
+,,,2010,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,23238685
+,,,2010,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,26887259
+,,,2010,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2010,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2010,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2010,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2010,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2010,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2010,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2010,5968959,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2010,236802,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2010,15184398,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2010,30556943,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,35408083
+3.0,vm_Rosado,  Rosado,2010,2036928,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,2569809
+2.0,vm_Tinto,  Tinto,2010,188649074,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,157290088
+14.0,ve_Branco,  Branco,2010,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2010,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2010,293,Vinho Especial,Tinto,,,,0
+,,,2010,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,13013027
+,,,2010,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,391280
+,,,2010,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,11401406
+,,,2011,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2011,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,74746
+,,,2011,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,865858
+,,,2011,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2011,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,2749540
+,,,2011,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2011,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,0
+,,,2011,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,0
+,,,2011,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2011,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2011,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2011,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2011,0,Derivados,Espumante,16.0,de_Espumante,Espumante,26361
+,,,2011,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,219100
+,,,2011,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2011,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2011,0,Derivados,Frisante,34.0,de_Frisante,Frisante,1003800
+,,,2011,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2011,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2011,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2011,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,0
+,,,2011,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2011,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,1037600
+,,,2011,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2011,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2011,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,77285998
+,,,2011,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2011,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2011,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2011,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,2480120
+,,,2011,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,0
+,,,2011,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2011,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2011,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2011,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,0
+,,,2011,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,5600
+17.0,es_Espumante,  Espumante,2011,10308834,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2011,2996441,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2011,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2011,5997697,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2011,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2011,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2011,18111,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2011,41134,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2011,66220,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2011,22162,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2011,532821,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2011,22016,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2011,73006,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2011,5640,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2011,4684087,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2011,805235,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2011,90364,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2011,7001836,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2011,57887,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2011,983,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2011,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2011,291399,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2011,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2011,5703340,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2011,385029,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2011,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2011,1875782,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2011,367193,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2011,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2011,158868,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2011,78540,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2011,875720,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2011,3386303,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2011,983700,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2011,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2011,662965,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2011,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2011,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2011,593486,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2011,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,312200
+,,,2011,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,29564324
+,,,2011,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,39487800
+,,,2011,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2011,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2011,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2011,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2011,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2011,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2011,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2011,4878930,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2011,211484,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2011,14876896,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2011,32078923,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,46007504
+3.0,vm_Rosado,  Rosado,2011,1668823,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,1719887
+2.0,vm_Tinto,  Tinto,2011,196562722,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,210113358
+14.0,ve_Branco,  Branco,2011,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2011,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2011,699,Vinho Especial,Tinto,,,,0
+,,,2011,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,22739426
+,,,2011,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,754305
+,,,2011,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,24104740
+,,,2012,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2012,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,369278
+,,,2012,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,479625
+,,,2012,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2012,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,2798908
+,,,2012,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2012,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,0
+,,,2012,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,0
+,,,2012,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2012,0,Derivados,Compostos,31.0,de_Compostos,Compostos,7600
+,,,2012,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2012,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2012,0,Derivados,Espumante,16.0,de_Espumante,Espumante,17200
+,,,2012,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,139775
+,,,2012,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2012,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2012,0,Derivados,Frisante,34.0,de_Frisante,Frisante,778500
+,,,2012,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2012,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2012,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,26775
+,,,2012,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,200
+,,,2012,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2012,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2012,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2012,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2012,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,93341575
+,,,2012,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2012,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2012,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2012,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,2797665
+,,,2012,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,0
+,,,2012,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2012,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2012,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2012,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,0
+,,,2012,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2012,11278858,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2012,3610289,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2012,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2012,5311258,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2012,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2012,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2012,14710,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2012,42671,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2012,46518,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2012,25921,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2012,261223,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2012,21980,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2012,89000,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2012,5495,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2012,4258333,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2012,907199,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2012,30000,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2012,7108554,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2012,55050,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2012,5097,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2012,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2012,29304,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2012,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2012,5644055,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2012,484205,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2012,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2012,1995839,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2012,613313,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2012,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2012,73590,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2012,102259,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2012,1208132,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2012,4027358,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2012,2110450,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2012,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2012,510914,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2012,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2012,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2012,645341,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2012,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,533048
+,,,2012,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,37624855
+,,,2012,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,31908829
+,,,2012,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2012,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2012,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2012,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2012,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2012,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2012,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2012,6876128,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2012,150806,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2012,15443016,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2012,31266661,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,34938249
+3.0,vm_Rosado,  Rosado,2012,1738134,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,1963356
+2.0,vm_Tinto,  Tinto,2012,173964776,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,175875432
+14.0,ve_Branco,  Branco,2012,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2012,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2012,239,Vinho Especial,Tinto,,,,0
+,,,2012,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,20647238
+,,,2012,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,525903
+,,,2012,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,24027589
+,,,2013,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2013,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,359617
+,,,2013,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,624728
+,,,2013,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2013,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1470700
+,,,2013,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,4260
+,,,2013,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,63111
+,,,2013,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,78397
+,,,2013,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2013,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2013,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2013,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2013,0,Derivados,Espumante,16.0,de_Espumante,Espumante,30275
+,,,2013,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,159781
+,,,2013,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2013,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2013,0,Derivados,Frisante,34.0,de_Frisante,Frisante,1009000
+,,,2013,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2013,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2013,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2013,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,2500
+,,,2013,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2013,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2013,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2013,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2013,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,58517506
+,,,2013,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,10000
+,,,2013,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2013,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2013,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1742152
+,,,2013,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,0
+,,,2013,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2013,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2013,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2013,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,100
+,,,2013,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2013,12194973,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2013,3783531,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2013,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2013,56936,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2013,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2013,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2013,17075,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2013,27078,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2013,97260,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2013,26483,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2013,291188,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2013,22000,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2013,62825,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2013,6276,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2013,4028017,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2013,806955,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2013,24838,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2013,6685648,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2013,94860,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2013,1655,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2013,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2013,325562,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2013,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2013,5347775,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2013,529274,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2013,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2013,1981851,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2013,623481,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2013,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2013,76039,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2013,122749,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2013,3233270,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2013,8049936,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2013,3154800,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2013,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2013,595513,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2013,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2013,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2013,609153,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2013,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,0
+,,,2013,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,31206394
+,,,2013,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,33673396
+,,,2013,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2013,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2013,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2013,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2013,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2013,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2013,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2013,8576915,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2013,214269,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2013,19121750,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2013,31779668,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,32066403
+3.0,vm_Rosado,  Rosado,2013,1777648,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,1726022
+2.0,vm_Tinto,  Tinto,2013,188033494,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,163111797
+14.0,ve_Branco,  Branco,2013,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2013,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2013,2257,Vinho Especial,Tinto,,,,0
+,,,2013,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,21906349
+,,,2013,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,719723
+,,,2013,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,23156458
+,,,2014,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2014,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,234725
+,,,2014,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,376968
+,,,2014,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2014,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1808044
+,,,2014,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,3860
+,,,2014,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,50954
+,,,2014,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,142850
+,,,2014,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2014,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2014,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2014,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2014,0,Derivados,Espumante,16.0,de_Espumante,Espumante,2700
+,,,2014,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,100000
+,,,2014,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2014,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2014,0,Derivados,Frisante,34.0,de_Frisante,Frisante,26069
+,,,2014,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2014,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2014,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2014,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,1000
+,,,2014,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2014,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2014,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2014,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2014,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,57582195
+,,,2014,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,1140
+,,,2014,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2014,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2014,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,2484000
+,,,2014,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,53776
+,,,2014,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,3000
+,,,2014,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2014,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2014,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,36000
+,,,2014,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2014,12602610,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2014,4588465,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2014,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2014,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2014,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2014,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2014,14472,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2014,46476,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2014,75067,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2014,37395,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2014,70999,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2014,33381,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2014,106400,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2014,6625,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2014,4045218,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2014,736496,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2014,150,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2014,6267047,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2014,64937,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2014,948,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2014,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2014,1818425,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2014,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2014,3488907,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2014,639191,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2014,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2014,2358125,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2014,259320,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2014,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2014,86279,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2014,124379,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2014,969702,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2014,8180657,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2014,4465675,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2014,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2014,450121,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2014,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2014,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2014,616904,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2014,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,0
+,,,2014,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,33392314
+,,,2014,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,43331223
+,,,2014,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2014,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2014,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2014,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2014,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2014,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2014,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2014,4905826,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2014,164219,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2014,15354938,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2014,26734500,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,37438069
+3.0,vm_Rosado,  Rosado,2014,1419855,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,958691
+2.0,vm_Tinto,  Tinto,2014,178250072,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,157776363
+14.0,ve_Branco,  Branco,2014,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2014,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2014,7231,Vinho Especial,Tinto,,,,0
+,,,2014,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,20054804
+,,,2014,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,1200514
+,,,2014,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,17208996
+,,,2015,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,1350
+,,,2015,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,605001
+,,,2015,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,1466259
+,,,2015,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2015,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1607727
+,,,2015,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,922
+,,,2015,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,48833
+,,,2015,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,120230
+,,,2015,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2015,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2015,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2015,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2015,0,Derivados,Espumante,16.0,de_Espumante,Espumante,23750
+,,,2015,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,110100
+,,,2015,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2015,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2015,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2015,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2015,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2015,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2015,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,0
+,,,2015,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2015,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2015,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2015,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2015,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,100911592
+,,,2015,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,1000
+,,,2015,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2015,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2015,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,2371140
+,,,2015,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,25800
+,,,2015,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2015,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2015,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2015,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,56000
+,,,2015,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2015,13886440,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2015,5010704,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2015,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2015,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2015,5,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2015,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2015,16268,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2015,72774,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2015,117404,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2015,77054,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2015,2801,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2015,24091,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2015,128754,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2015,8118,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2015,3297202,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2015,611787,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2015,0,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2015,6001714,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2015,58860,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2015,1144,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2015,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2015,335966,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2015,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2015,3959884,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2015,660042,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2015,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2015,2500025,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2015,160245,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2015,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2015,131599,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2015,120677,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2015,1164527,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2015,8188031,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2015,3359266,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2015,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2015,413735,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2015,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2015,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2015,510975,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2015,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,0
+,,,2015,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,35661313
+,,,2015,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,52233155
+,,,2015,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2015,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2015,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2015,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2015,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2015,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2015,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2015,4399814,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2015,169185,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2015,15572632,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2015,25760681,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,39557250
+3.0,vm_Rosado,  Rosado,2015,1409002,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,939838
+2.0,vm_Tinto,  Tinto,2015,182028785,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,169811472
+14.0,ve_Branco,  Branco,2015,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2015,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2015,593,Vinho Especial,Tinto,,,,0
+,,,2015,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,19561966
+,,,2015,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,841120
+,,,2015,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,16745896
+,,,2016,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,1000
+,,,2016,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,740395
+,,,2016,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,250280
+,,,2016,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2016,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1325700
+,,,2016,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,3474
+,,,2016,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,24975
+,,,2016,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,82367
+,,,2016,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2016,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2016,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2016,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2016,0,Derivados,Espumante,16.0,de_Espumante,Espumante,1500
+,,,2016,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,100000
+,,,2016,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2016,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2016,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2016,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2016,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2016,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2016,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,0
+,,,2016,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2016,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2016,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2016,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2016,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,49770993
+,,,2016,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2016,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2016,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2016,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1620430
+,,,2016,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,5000
+,,,2016,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2016,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2016,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2016,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,24200
+,,,2016,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2016,12438243,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2016,4507467,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2016,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2016,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2016,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2016,6315,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2016,9301,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2016,74805,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2016,122356,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2016,131739,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2016,1483,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2016,15000,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2016,57292,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2016,8253,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2016,2450732,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2016,506532,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2016,6700,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2016,4225414,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2016,14429,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2016,835,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2016,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2016,9458,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2016,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2016,3288046,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2016,763041,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2016,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2016,1924093,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2016,33684,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2016,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2016,77070,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2016,101991,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2016,1083539,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2016,8186761,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2016,3097566,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2016,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2016,377685,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2016,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2016,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2016,546189,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2016,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,0
+,,,2016,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,11092520
+,,,2016,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,31117869
+,,,2016,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2016,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2016,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2016,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2016,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2016,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2016,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2016,4229293,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2016,172351,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2016,15228514,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2016,18731315,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,10727099
+3.0,vm_Rosado,  Rosado,2016,1391942,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,312725
+2.0,vm_Tinto,  Tinto,2016,146646365,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,75279191
+14.0,ve_Branco,  Branco,2016,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2016,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2016,331,Vinho Especial,Tinto,,,,0
+,,,2016,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,8705066
+,,,2016,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,590713
+,,,2016,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,8774847
+,,,2017,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,900
+,,,2017,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,1552403
+,,,2017,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,893364
+,,,2017,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2017,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1965629
+,,,2017,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2017,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,0
+,,,2017,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,0
+,,,2017,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2017,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2017,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2017,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2017,0,Derivados,Espumante,16.0,de_Espumante,Espumante,11280
+,,,2017,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,152375
+,,,2017,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2017,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2017,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2017,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2017,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2017,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,110820
+,,,2017,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,1500
+,,,2017,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2017,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,772110
+,,,2017,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2017,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2017,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,101010116
+,,,2017,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,3000
+,,,2017,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2017,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2017,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,2507125
+,,,2017,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,25319
+,,,2017,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2017,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2017,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2017,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,110820
+,,,2017,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2017,12022102,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2017,5561181,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2017,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2017,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2017,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2017,49662,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2017,9257,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2017,48866,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2017,298836,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2017,139070,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2017,10297,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2017,20795,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2017,4970,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2017,5089,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2017,2471612,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2017,418433,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2017,0,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2017,4208753,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2017,508,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2017,1194,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2017,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2017,63971,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2017,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2017,4727294,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2017,1082923,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2017,0,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2017,1876212,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2017,30519,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2017,0,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2017,62272,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2017,81944,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2017,975992,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2017,7686691,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2017,2769202,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2017,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2017,485944,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2017,0,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2017,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2017,496746,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2017,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,177774
+,,,2017,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,30059271
+,,,2017,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,46865626
+,,,2017,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2017,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,59300
+24.0,su_Outros_sucos,  Outros sucos de uvas,2017,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2017,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2017,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2017,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2017,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2017,3670590,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2017,182080,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2017,12021684,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2017,20653091,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,217527985
+3.0,vm_Rosado,  Rosado,2017,1097426,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,36121245
+2.0,vm_Tinto,  Tinto,2017,154309442,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,1365957
+14.0,ve_Branco,  Branco,2017,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2017,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2017,0,Vinho Especial,Tinto,,,,0
+,,,2017,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,21928400
+,,,2017,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,1167258
+,,,2017,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,21442212
+,,,2018,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,2100
+,,,2018,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,228518
+,,,2018,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,1746540
+,,,2018,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2018,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1320650
+,,,2018,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2018,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,255100
+,,,2018,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,70480
+,,,2018,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2018,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2018,0,Derivados,Destilado,38.0,de_Destilado,Destilado,680
+,,,2018,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2018,0,Derivados,Espumante,16.0,de_Espumante,Espumante,68500
+,,,2018,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,326200
+,,,2018,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2018,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2018,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2018,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2018,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2018,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2018,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,2000
+,,,2018,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2018,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2018,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2018,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2018,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,88910980
+,,,2018,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2018,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2018,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2018,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,2112683
+,,,2018,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,25367
+,,,2018,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2018,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2018,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,8000
+,,,2018,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,124303
+,,,2018,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2018,11692300,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2018,6526075,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2018,0,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2018,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2018,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2018,21575,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2018,6929,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2018,74941,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2018,287361,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2018,109200,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2018,10330,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2018,11600,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2018,721280,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2018,4652,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2018,3091682,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2018,349836,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2018,82,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2018,3867645,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2018,173,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2018,1902,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2018,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2018,715708,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2018,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2018,3517417,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2018,1773526,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2018,3734763,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2018,1853162,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2018,76888,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2018,40574,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2018,58498,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2018,133714,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2018,888589,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2018,6994467,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2018,2158993,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2018,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2018,249165,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2018,143,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2018,198,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2018,491165,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2018,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,0
+,,,2018,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,31099910
+,,,2018,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,34367996
+,,,2018,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2018,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2018,0,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2018,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2018,0,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2018,0,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2018,0,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2018,3413196,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2018,262430,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2018,11150517,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2018,20097830,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,29229970
+3.0,vm_Rosado,  Rosado,2018,1972944,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,875524
+2.0,vm_Tinto,  Tinto,2018,155115499,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,188270142
+14.0,ve_Branco,  Branco,2018,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2018,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2018,0,Vinho Especial,Tinto,,,,0
+,,,2018,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,18297257
+,,,2018,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,1291709
+,,,2018,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,19118254
+,,,2019,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,10495
+,,,2019,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,274903
+,,,2019,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,1188095
+,,,2019,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2019,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,1962443
+,,,2019,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2019,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,901431
+,,,2019,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,25996
+,,,2019,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2019,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2019,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2019,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2019,0,Derivados,Espumante,16.0,de_Espumante,Espumante,52176
+,,,2019,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,515800
+,,,2019,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2019,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2019,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2019,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,0
+,,,2019,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,1507
+,,,2019,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2019,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,3000
+,,,2019,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2019,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,645816
+,,,2019,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,1000
+,,,2019,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2019,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,135614344
+,,,2019,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,32519
+,,,2019,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2019,0,Derivados,Pisco,45.0,de_Pisco,Pisco,3372
+,,,2019,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1480269
+,,,2019,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,76096
+,,,2019,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2019,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2019,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2019,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,99485
+,,,2019,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,0
+17.0,es_Espumante,  Espumante,2019,13762361,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2019,8997187,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2019,311,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2019,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2019,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2019,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2019,8746,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2019,65692,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2019,271714,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2019,115468,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2019,498512,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2019,17398,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2019,153770,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2019,5015,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2019,3782516,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2019,269701,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2019,309,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2019,4076204,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2019,0,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2019,3765,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2019,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2019,5736852,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2019,94000,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2019,4006608,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2019,2294581,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2019,310886,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2019,1838395,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2019,52567,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2019,110648,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2019,67279,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2019,211653,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2019,1130092,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2019,6246945,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2019,2592380,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2019,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2019,366549,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2019,136,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2019,306,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2019,465964,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2019,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,120320
+,,,2019,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,26861009
+,,,2019,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,50239767
+,,,2019,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,0
+,,,2019,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,584256
+24.0,su_Outros_sucos,  Outros sucos de uvas,2019,8102151,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2019,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2019,131628685,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2019,416849,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2019,7759932,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2019,3747362,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2019,503524,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2019,11433702,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2019,20661836,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,22032828
+3.0,vm_Rosado,  Rosado,2019,1265435,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,1551794
+2.0,vm_Tinto,  Tinto,2019,158519218,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,121045115
+14.0,ve_Branco,  Branco,2019,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2019,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2019,0,Vinho Especial,Tinto,,,,0
+,,,2019,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,18193055
+,,,2019,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,2032990
+,,,2019,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,17389377
+,,,2020,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2020,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,200777
+,,,2020,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,2487939
+,,,2020,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2020,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,3006705
+,,,2020,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2020,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,509378
+,,,2020,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,167587
+,,,2020,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2020,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2020,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2020,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,500
+,,,2020,0,Derivados,Espumante,16.0,de_Espumante,Espumante,32399
+,,,2020,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,689139
+,,,2020,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2020,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2020,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2020,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,2000
+,,,2020,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,5800
+,,,2020,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2020,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,0
+,,,2020,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2020,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,3078256
+,,,2020,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,5000
+,,,2020,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2020,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,80355474
+,,,2020,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,46000
+,,,2020,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,0
+,,,2020,0,Derivados,Pisco,45.0,de_Pisco,Pisco,1000
+,,,2020,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1803472
+,,,2020,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,10000
+,,,2020,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2020,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,65000
+,,,2020,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2020,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,48678
+,,,2020,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,18700
+17.0,es_Espumante,  Espumante,2020,13311450,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2020,9298571,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2020,742,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2020,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2020,866,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2020,6640,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2020,7610,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2020,8772,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2020,123,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2020,23703,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2020,354511,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2020,22975,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2020,146260,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2020,7966,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2020,6260381,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2020,205664,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2020,200,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2020,2415338,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2020,1267,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2020,1201,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2020,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2020,48044,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2020,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2020,3319597,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2020,2543754,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2020,192057,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2020,1129453,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2020,11366,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2020,144945,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2020,11017,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2020,248771,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2020,1075579,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2020,6049584,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2020,1879227,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2020,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2020,63625,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2020,4012,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2020,396,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2020,362340,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2020,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,107289
+,,,2020,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,27963865
+,,,2020,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,40718523
+,,,2020,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,471610
+,,,2020,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2020,7815879,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2020,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2020,114453657,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2020,553391,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2020,22066742,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2020,5115133,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2020,993248,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2020,18202453,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2020,24589607,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,19568734
+3.0,vm_Rosado,  Rosado,2020,1394901,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,715289
+2.0,vm_Tinto,  Tinto,2020,189573423,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,103916391
+14.0,ve_Branco,  Branco,2020,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2020,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2020,0,Vinho Especial,Tinto,,,,0
+,,,2020,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,15487915
+,,,2020,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,1576888
+,,,2020,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,15451883
+,,,2021,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,12060
+,,,2021,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,0
+,,,2021,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,0
+,,,2021,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,5475049
+,,,2021,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,5549471
+,,,2021,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,2000
+,,,2021,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,116450
+,,,2021,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,16789
+,,,2021,0,Derivados,Brandy,37.0,de_Brandy,Brandy,120
+,,,2021,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2021,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2021,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,3000
+,,,2021,0,Derivados,Espumante,16.0,de_Espumante,Espumante,70091
+,,,2021,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,11950
+,,,2021,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,2412
+,,,2021,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2021,0,Derivados,Frisante,34.0,de_Frisante,Frisante,1390
+,,,2021,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,3540
+,,,2021,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2021,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2021,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,2500
+,,,2021,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2021,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,618764
+,,,2021,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,1532000
+,,,2021,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,543510
+,,,2021,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,153579926
+,,,2021,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,18187
+,,,2021,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,322
+,,,2021,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2021,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1180578
+,,,2021,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,7500
+,,,2021,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,160000
+,,,2021,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2021,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2021,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,30000
+,,,2021,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,93884
+17.0,es_Espumante,  Espumante,2021,19001999,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2021,12240059,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2021,639,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2021,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2021,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2021,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2021,7676,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2021,9580,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2021,4230,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2021,49734,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2021,324298,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2021,935,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2021,414100,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2021,7311,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2021,6107943,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2021,244184,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2021,175,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2021,2430821,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2021,1763,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2021,9075,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2021,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2021,803171,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2021,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2021,4021229,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2021,2105686,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2021,17618,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2021,1002033,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2021,23455,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2021,175954,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2021,17222,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2021,332217,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2021,795060,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2021,5647166,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2021,1448086,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2021,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2021,227116,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2021,53495,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2021,0,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2021,376597,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2021,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,40450
+,,,2021,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,32131218
+,,,2021,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,68038479
+,,,2021,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,722117
+,,,2021,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2021,5541100,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2021,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2021,115173833,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2021,902299,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2021,26136089,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2021,6139046,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2021,1603537,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2021,19337862,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2021,22426954,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,26432799
+3.0,vm_Rosado,  Rosado,2021,1931606,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,1391200
+2.0,vm_Tinto,  Tinto,2021,185653678,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,146075996
+14.0,ve_Branco,  Branco,2021,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2021,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2021,0,Vinho Especial,Tinto,,,,0
+,,,2021,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,20867999
+,,,2021,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,2173750
+,,,2021,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,20433249
+,,,2022,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,4998
+,,,2022,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,1146717
+,,,2022,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,4078766
+,,,2022,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2022,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,6308043
+,,,2022,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,0
+,,,2022,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,0
+,,,2022,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,0
+,,,2022,0,Derivados,Brandy,37.0,de_Brandy,Brandy,0
+,,,2022,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2022,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2022,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,4300
+,,,2022,0,Derivados,Espumante,16.0,de_Espumante,Espumante,70759
+,,,2022,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,27200
+,,,2022,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,0
+,,,2022,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2022,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2022,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,5000
+,,,2022,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2022,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2022,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,0
+,,,2022,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2022,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,0
+,,,2022,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2022,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2022,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,126048241
+,,,2022,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,0
+,,,2022,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,247228
+,,,2022,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2022,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,387886
+,,,2022,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,16200
+,,,2022,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2022,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,0
+,,,2022,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2022,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,67000
+,,,2022,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,88890
+17.0,es_Espumante,  Espumante,2022,17321031,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2022,12204315,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2022,597,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2022,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2022,0,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2022,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2022,5594,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2022,60958,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2022,226901,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2022,720603,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2022,139943,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2022,49840,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2022,122525,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2022,4407,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2022,4505384,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2022,292420,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2022,33,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2022,2339403,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2022,1392,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2022,4080,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2022,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2022,1579638,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2022,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2022,4719055,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2022,7406812,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2022,8812,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2022,1058011,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2022,19711,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2022,265026,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2022,95605,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2022,296664,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2022,987142,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2022,5309881,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2022,1052563,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2022,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2022,32000,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2022,14947,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2022,27,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2022,385006,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2022,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,79130
+,,,2022,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,29892550
+,,,2022,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,35248305
+,,,2022,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,589094
+,,,2022,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2022,5588403,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2022,0,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2022,115394795,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2022,1002685,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2022,35139154,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2022,4956314,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2022,1318396,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2022,15258778,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2022,20658933,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,30198430
+3.0,vm_Rosado,  Rosado,2022,2213723,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,1988968
+2.0,vm_Tinto,  Tinto,2022,165067340,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,162844214
+14.0,ve_Branco,  Branco,2022,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2022,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2022,0,Vinho Especial,Tinto,,,,0
+,,,2022,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,20896613
+,,,2022,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,2197265
+,,,2022,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,24417918
+,,,2023,0,Derivados,Bagaceira,39.0,de_Bagaceira,Bagaceira,0
+,,,2023,0,Derivados,Base Champenoise champanha,20.0,de_Base Champenoise champanha,Base Champenoise champanha,1552243
+,,,2023,0,Derivados,Base Charmat champanha,21.0,de_Base Charmat champanha,Base Charmat champanha,5418118
+,,,2023,0,Derivados,Base espumante,18.0,de_Base espumante,Base espumante,0
+,,,2023,0,Derivados,Base espumante moscatel,19.0,de_Base espumante moscatel,Base espumante moscatel,6734590
+,,,2023,0,Derivados,Bebida de uva,22.0,de_Bebida de uva,Bebida de uva,1627
+,,,2023,0,Derivados,Borra líquida,42.0,de_Borra líquida,Borra líquida,758140
+,,,2023,0,Derivados,Borra seca,43.0,de_Borra seca,Borra seca,17200
+,,,2023,0,Derivados,Brandy,37.0,de_Brandy,Brandy,450
+,,,2023,0,Derivados,Compostos,31.0,de_Compostos,Compostos,0
+,,,2023,0,Derivados,Destilado,38.0,de_Destilado,Destilado,0
+,,,2023,0,Derivados,Destilado alcoólico simples de bagaceira,48.0,de_Destilado alcoólico simples de bagaceira ,Destilado alcoólico simples de bagaceira ,0
+,,,2023,0,Derivados,Espumante,16.0,de_Espumante,Espumante,65525
+,,,2023,0,Derivados,Espumante moscatel,17.0,de_Espumante moscatel,Espumante moscatel,14744
+,,,2023,0,Derivados,Espumante orgânico,47.0,de_Espumante orgânico,Espumante orgânico,1365
+,,,2023,0,Derivados,Filtrado,33.0,de_Filtrado,Filtrado,0
+,,,2023,0,Derivados,Frisante,34.0,de_Frisante,Frisante,0
+,,,2023,0,Derivados,Jeropiga,32.0,de_Jeropiga,Jeropiga,4500
+,,,2023,0,Derivados,Licor de bagaceira,40.0,de_Licor de bagaceira,Licor de bagaceira,0
+,,,2023,0,Derivados,Licorosos,30.0,de_Licorosos,Licorosos,0
+,,,2023,0,Derivados,Mistelas,28.0,de_Mistelas,Mistelas,600
+,,,2023,0,Derivados,Mosto concentrado,25.0,de_Mosto concentrado,Mosto concentrado,0
+,,,2023,0,Derivados,Mosto de uva com bagaço,26.0,de_Mosto de uva com bagaço,Mosto de uva com bagaço,7784
+,,,2023,0,Derivados,Mosto dessulfitado,27.0,de_Mosto dessulfitado,Mosto dessulfitado,0
+,,,2023,0,Derivados,Mosto parcialmente fermentado,50.0,de_Mosto parcialmente fermentado ,Mosto parcialmente fermentado ,0
+,,,2023,0,Derivados,Mosto simples,24.0,de_Mosto simples,Mosto simples,157848983
+,,,2023,0,Derivados,Néctar de uva,29.0,de_Néctar de uva,Néctar de uva,70976
+,,,2023,0,Derivados,Outros derivados,51.0,de_Outros derivados,Outros derivados,652301
+,,,2023,0,Derivados,Pisco,45.0,de_Pisco,Pisco,0
+,,,2023,0,Derivados,Polpa de uva,23.0,de_Polpa de uva,Polpa de uva,1388251
+,,,2023,0,Derivados,Vinagre,41.0,de_Vinagre,Vinagre,9000
+,,,2023,0,Derivados,Vinho Composto,44.0,de_Vinho Composto,Vinho Composto,0
+,,,2023,0,Derivados,Vinho acidificado,49.0,de_Vinho acidificado ,Vinho acidificado ,2500
+,,,2023,0,Derivados,Vinho leve,35.0,de_Vinho leve,Vinho leve,0
+,,,2023,0,Derivados,Vinho licoroso,36.0,de_Vinho licoroso,Vinho licoroso,73600
+,,,2023,0,Derivados,Vinho orgânico,46.0,de_Vinho orgânico,Vinho orgânico,94150
+17.0,es_Espumante,  Espumante,2023,19609379,Espumantes,Espumante,,,,0
+16.0,es_Espumante_Moscatel,  Espumante  Moscatel,2023,9771698,Espumantes,Espumante  Moscatel,,,,0
+18.0,es_Espumante Orgânico,  Espumante Orgânico,2023,558,Espumantes,Espumante Orgânico,,,,0
+28.0,ou_Agrin,"  Agrin (fermentado, acetico misto)",2023,0,Outros Produtos Comercializados,"Agrin (fermentado, acetico misto)",,,,0
+29.0,ou_Aguardente,  Aguardente de vinho 50°gl,2023,111,Outros Produtos Comercializados,Aguardente de vinho 50°gl,,,,0
+30.0,ou_Alcool_vinico,  Alcool vinico,2023,0,Outros Produtos Comercializados,Alcool vinico,,,,0
+31.0,ou_Bagaceira,  Bagaceira (graspa),2023,0,Outros Produtos Comercializados,Bagaceira (graspa),,,,0
+32.0,ou_Base_champenoise,  Base champenoise champanha,2023,66290,Outros Produtos Comercializados,Base champenoise champanha,,,,0
+33.0,ou_Base_charmat,  Base charmat champanha,2023,184040,Outros Produtos Comercializados,Base charmat champanha,,,,0
+34.0,ou_Base_espumante,  Base espumante moscatel,2023,722984,Outros Produtos Comercializados,Base espumante moscatel,,,,0
+35.0,ou_Bebida,  Bebida de uva,2023,16780,Outros Produtos Comercializados,Bebida de uva,,,,0
+36.0,ou_Borra_liqwuida,  Borra líquida,2023,72600,Outros Produtos Comercializados,Borra líquida,,,,0
+37.0,ou_Borra_seca,  Borra seca,2023,53220,Outros Produtos Comercializados,Borra seca,,,,0
+38.0,ou_Brandy,  Brandy (conhaque),2023,4506,Outros Produtos Comercializados,Brandy (conhaque),,,,0
+39.0,ou_Cooler,  Cooler,2023,4321881,Outros Produtos Comercializados,Cooler,,,,0
+40.0,ou_Coquetel,  Coquetel com vinho,2023,397156,Outros Produtos Comercializados,Coquetel com vinho,,,,0
+41.0,ou_Destilado,  Destilado de vinho,2023,245,Outros Produtos Comercializados,Destilado de vinho,,,,0
+42.0,ou_Filtrado_doce,  Filtrado doce,2023,2366601,Outros Produtos Comercializados,Filtrado doce,,,,0
+43.0,ou_Jeropiga,  Jeropiga,2023,346,Outros Produtos Comercializados,Jeropiga,,,,0
+44.0,ou_Mistelas,  Mistelas,2023,1668,Outros Produtos Comercializados,Mistelas,,,,0
+45.0,ou_Mosto_concentrado,  Mosto concentrado,2023,0,Outros Produtos Comercializados,Mosto concentrado,,,,0
+46.0,ou_Mosto_uva,  Mosto de uva,2023,359626,Outros Produtos Comercializados,Mosto de uva,,,,0
+47.0,ou_Mosto_sulfitado,  Mosto sulfitado,2023,0,Outros Produtos Comercializados,Mosto sulfitado,,,,0
+48.0,ou_Nectar,  Nectar de uva,2023,3604413,Outros Produtos Comercializados,Nectar de uva,,,,0
+49.0,ou_Outros_produtos,  Outros produtos,2023,7459271,Outros Produtos Comercializados,Outros produtos,,,,0
+27.0,ou_Outros vinhos (sem informdetalhada,  Outros vinhos (sem informação detalhada),2023,8152,Outros Produtos Comercializados,Outros vinhos (sem informação detalhada),,,,0
+50.0,ou_Polpa,  Polpa de uva,2023,1331651,Outros Produtos Comercializados,Polpa de uva,,,,0
+51.0,ou_Preparado_líquido,  Preparado líquido para refresco,2023,17178,Outros Produtos Comercializados,Preparado líquido para refresco,,,,0
+52.0,ou_Refrigerante,  Refrigerante +50% suco,2023,501876,Outros Produtos Comercializados,Refrigerante +50% suco,,,,0
+53.0,ou_Sangria,  Sangria,2023,84157,Outros Produtos Comercializados,Sangria,,,,0
+54.0,ou_Vinagre_balsamico,  Vinagre balsamico,2023,338926,Outros Produtos Comercializados,Vinagre balsamico,,,,0
+55.0,ou_Vinagre_duplo,  Vinagre duplo,2023,1769130,Outros Produtos Comercializados,Vinagre duplo,,,,0
+56.0,ou_Vinagre_simples,  Vinagre simples,2023,5047280,Outros Produtos Comercializados,Vinagre simples,,,,0
+57.0,ou_Vinho_acetificado,  Vinho acetificado,2023,194020,Outros Produtos Comercializados,Vinho acetificado,,,,0
+58.0,ou_Vinho_base,  Vinho base para espumantes,2023,0,Outros Produtos Comercializados,Vinho base para espumantes,,,,0
+59.0,ou_Vinho_composto,  Vinho composto,2023,981,Outros Produtos Comercializados,Vinho composto,,,,0
+62.0,ou_Vinho_gaseificado,  Vinho gaseificado,2023,410215,Outros Produtos Comercializados,Vinho gaseificado,,,,0
+61.0,ou_Vinho_leve,  Vinho leve,2023,132064,Outros Produtos Comercializados,Vinho leve,,,,0
+60.0,ou_Vinho_licoroso,  Vinho licoroso,2023,421974,Outros Produtos Comercializados,Vinho licoroso,,,,0
+,,,2023,0,Suco,Suco de uva adoçado,12.0,su_Suco de uva adoçado,Suco de uva adoçado,94587
+,,,2023,0,Suco,Suco de uva concentrado,11.0,su_Suco concentrado,Suco de uva concentrado,28216760
+,,,2023,0,Suco,Suco de uva integral,10.0,su_Suco de uva simples,Suco de uva integral,38122173
+,,,2023,0,Suco,Suco de uva orgânico,13.0,su_Suco de uva orgânico,Suco de uva orgânico,611718
+,,,2023,0,Suco,Suco de uva reconstituído,14.0,su_Suco de uva reconstituído,Suco de uva reconstituído,0
+24.0,su_Outros_sucos,  Outros sucos de uvas,2023,1825635,Suco De Uvas,Outros sucos de uvas,,,,0
+21.0,su_Suco_Adoçado,  Suco Adoçado,2023,128599,Suco De Uvas,Suco Adoçado,,,,0
+20.0,su_Suco_Natural,  Suco Natural Integral,2023,129419407,Suco De Uvas,Suco Natural Integral,,,,0
+23.0,su_Suco_Orgânico,  Suco Orgânico,2023,932154,Suco De Uvas,Suco Orgânico,,,,0
+22.0,su_Suco_Reprocessado,  Suco Reprocessado/reconstituido,2023,34402925,Suco De Uvas,Suco Reprocessado/reconstituido,,,,0
+8.0,vm_Branco,  Branco,2023,4924121,Vinho  Fino De Mesa,Branco,,,,0
+7.0,vm_Rosado,  Rosado,2023,1214583,Vinho  Fino De Mesa,Rosado,,,,0
+6.0,vm_Tinto,  Tinto,2023,12450606,Vinho  Fino De Mesa,Tinto,,,,0
+4.0,vm_Branco,  Branco,2023,19398561,Vinho De Mesa,Branco,3.0,vm_Branco,Branco,27910299
+3.0,vm_Rosado,  Rosado,2023,2520748,Vinho De Mesa,Rosado,4.0,vm_Rosado,Rosado,2531246
+2.0,vm_Tinto,  Tinto,2023,165097539,Vinho De Mesa,Tinto,2.0,vm_Tinto,Tinto,139320884
+14.0,ve_Branco,  Branco,2023,0,Vinho Especial,Branco,,,,0
+13.0,ve_Rosado,  Rosado,2023,0,Vinho Especial,Rosado,,,,0
+12.0,ve_Tinto,  Tinto,2023,0,Vinho Especial,Tinto,,,,0
+,,,2023,0,Vinho Fino De Mesa (Vinifera),Branco,7.0,vv_Branco,Branco,20693437
+,,,2023,0,Vinho Fino De Mesa (Vinifera),Rosado,8.0,vv_Rosado,Rosado,1959336
+,,,2023,0,Vinho Fino De Mesa (Vinifera),Tinto,6.0,vv_Tinto,Tinto,23615783
