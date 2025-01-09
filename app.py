@@ -3,8 +3,8 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-# Confirmação da versão do openai na própria aplicação
-st.write(f"Versão do openai instalada: {openai.__version__}")
+# Exibir a versão do openai em produção
+st.write("Versão do openai em produção:", openai.__version__)
 
 # Configuração da chave API da OpenAI via variável de ambiente
 import os
@@ -112,4 +112,3 @@ ax.set_title("Top 10 Países de Destino", fontsize=16, color='#8B0000')
 ax.set_xlabel("País", fontsize=14)
 ax.set_ylabel("Valor Total (US$ FOB)", fontsize=14)
 st.pyplot(fig)
-
