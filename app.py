@@ -3,7 +3,10 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-# Configuração da chave API da OpenAI
+# Confirmação da versão do openai na própria aplicação
+st.write(f"Versão do openai instalada: {openai.__version__}")
+
+# Configuração da chave API da OpenAI via variável de ambiente
 import os
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -40,6 +43,7 @@ st.markdown('<div class="header"><h1>Análise de Dados de Exportação de Vinhos
 # Função para interação com o ChatGPT
 def perguntar_a_chatgpt(pergunta):
     try:
+        # Uso da sintaxe nova: openai.ChatCompletion.create(...)
         resposta = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[
@@ -90,6 +94,7 @@ st.dataframe(df_filtrado)
 
 # Gráficos relevantes
 st.markdown("## Gráficos de Análise")
+
 st.markdown("### Tendência de Exportação (US$ FOB por Ano)")
 fig, ax = plt.subplots(figsize=(10, 6))
 ax.plot(df_filtrado.groupby('Año')['Valor US$ FOB'].sum(), color='#8B0000')
@@ -100,8 +105,11 @@ st.pyplot(fig)
 
 st.markdown("### Exportação por País")
 fig, ax = plt.subplots(figsize=(10, 6))
-df_filtrado.groupby('País')['Valor US$ FOB'].sum().sort_values(ascending=False).head(10).plot(kind='bar', color='#A52A2A', ax=ax)
+df_filtrado.groupby('País')['Valor US$ FOB'].sum() \
+    .sort_values(ascending=False).head(10) \
+    .plot(kind='bar', color='#A52A2A', ax=ax)
 ax.set_title("Top 10 Países de Destino", fontsize=16, color='#8B0000')
 ax.set_xlabel("País", fontsize=14)
 ax.set_ylabel("Valor Total (US$ FOB)", fontsize=14)
 st.pyplot(fig)
+
